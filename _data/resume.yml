@@ -39,21 +39,12 @@ work:
       - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
+  - institution: "Саратовский государственный медицинский институт"
+    area: "лечебный факультет"
+    studyType: "Специалист"
+    startDate: "1978-06-01"
+    endDate: "1984-01-01"
     gpa: "4.0"
     courses:
       - "DB1101 - Basic SQL"
@@ -90,12 +81,13 @@ languages:
   - language: "Греческий"
     fluency: "Limited working proficiency"
 interests:
+  - name: "Photography"
     keywords:
       - "Ferrets"
       - "Unicorns"
   - name: "Видеосъемка"
-  - name: "Путешествия"
-  - name: "Программирование" 
+  - name: "Travels"
+  - name: "Programming" 
 references:
   - name: "Erlich Bachman"
     reference: >
