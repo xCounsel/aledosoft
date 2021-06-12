@@ -50,10 +50,10 @@ author:
 menu:
   - title:             Блог
     url:               /blog/
-  - title:             Отзывы
-    url:               /feedback/    
   - title:             Резюме
     url:               /resume/  
+  - title:             Отзывы
+    url:               /feedback/      
   - title:             Программы
     url:               /projects/
   - title:             Документация
