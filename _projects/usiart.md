@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'УЗИарт'
-caption: How I use Hydejack on my personal site.
+caption: Программа протоколирования ультразвукового исследования.
 description: >
   Программа протоколирования ультразвукового исследования.
 date: 1 Jun 2020
