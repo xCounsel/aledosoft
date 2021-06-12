@@ -45,7 +45,7 @@ education:
     studyType: "Специалист"
     startDate: "1978-06-01"
     endDate: "1984-01-01"
-    gp: ""
+    gpa: "4.0"
     courses:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
