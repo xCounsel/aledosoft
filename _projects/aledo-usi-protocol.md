@@ -20,3 +20,6 @@ sitemap: false
 
 
 Программа протоколирования ультразвукового исследования. Генерация алгоритма исследования в соответствии с академическими требованиями. Защита от случайного или преднамеренного пропуска введения данных. Программный расчёт объёма. Распечатка протокола на твёрдом носителе.
+
+Photo by <a href="https://unsplash.com/@xps?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">XPS</a> on <a href="https://unsplash.com/s/photos/software?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
