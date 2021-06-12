@@ -4,7 +4,7 @@ description: >
   Здесь вы можете найти отзывы о моей работе.
 hide_description: true
 sitemap: false
-permalink: /docs/
+permalink: /feedback/
 ---
 
 По ссылкам ниже вы можете ознакомиться с отзывами пациентов о моей работе:
