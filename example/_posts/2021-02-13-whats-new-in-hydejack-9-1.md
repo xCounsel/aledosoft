@@ -8,13 +8,13 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Version 9.1 provides minor design changes, new features, and closes multiple issues.
+  Скоро будет текст
 invert_sidebar: true
 ---
 
-# What's New in Hydejack 9.1?
+# Скоро здесь будет текст
 
-What's New in Hydejack 9.1?
+Скоро будет новый материал про УЗИ и программирование.
 
 * toc
 {:toc}
