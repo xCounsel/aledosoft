@@ -8,5 +8,5 @@ permalink: /feedback/
 ---
 
 По ссылкам ниже вы можете ознакомиться с отзывами пациентов о моей работе:
-* https://prodoctorov.ru/moskva/vrach/64793-dorotenko/#otzivi
+* [https://prodoctorov.ru/moskva/vrach/64793-dorotenko/#otzivi](https://prodoctorov.ru/moskva/vrach/64793-dorotenko/#otzivi)
 
