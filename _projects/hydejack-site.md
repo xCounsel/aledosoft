@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 'Hydejack Site'
-caption: Dogfooding Hydejack to sell Hydejack.
+title: 'USonicLang'
+caption: Программа протоколирования ультразвукового исследования.
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
+  Программа протоколирования ультразвукового исследования. Генерация алгоритма исследования в соответствии с академическими требованиями. Защита от случайного или преднамеренного пропуска введения данных. Программный расчёт объёма. Распечатка протокола на твёрдом носителе. Анализ введённых данных и создание автоматического заключения ультразвукового исследования. Оригинальная особенность: автоматический перевод протокола на выбранный иностранный язык.
 date: '01-01-2016'
 image: 
   path: /assets/img/projects/hydejack-site.jpg
