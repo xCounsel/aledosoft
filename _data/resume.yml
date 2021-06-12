@@ -6,7 +6,7 @@ basics:
   label: "Врач УЗИ"
   picture: "https://placehold.it/240x240"
   email: ""
-  phone: "n/a"
+  phone: ""
   website: "http://aledosoft.ru"
   summary: >
     Richard hails from Tulsa.
@@ -21,7 +21,6 @@ basics:
   location:
     city: "Москва"
     countryCode: "RU"
-    region: "Россия"
   profiles:
     - network: "LinkedIn"
       username: "Aleksandr Dorotenko"
@@ -84,13 +83,20 @@ skills:
       - "MP4"
       - "GIF"
 languages:
-  - language: "English"
+  - language: "Русский"
     fluency: "Native speaker"
+  - language: "Английский"
+    fluency: "Full professional proficiency"
+  - language: "Греческий"
+    fluency: "Limited working proficiency"
 interests:
-  - name: "Wildlife"
+  - name: "Фотография"
     keywords:
       - "Ferrets"
       - "Unicorns"
+  - name: "Видеосъемка"
+  - name: "Путешествия"
+  - name: "Программирование" 
 references:
   - name: "Erlich Bachman"
     reference: >
