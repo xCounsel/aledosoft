@@ -3,7 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  Здесь доступна информация о моем собственном программном обеспечении, написанном мною для повышения эффективности работы врачей.
 no_groups: true
 ---
