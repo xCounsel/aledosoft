@@ -6,11 +6,11 @@ description: >
   Программа медицинских расчётов, связанных с датами.
 date: '01-01-2013'
 image: 
-  path: /assets/img/projects/hydejack-site.jpg
+  path: /assets/img/projects/calend.jpg
   srcset: 
-    1920w: /assets/img/projects/hydejack-site.jpg
-    960w:  /assets/img/projects/hydejack-site@0,5x.jpg
-    480w:  /assets/img/projects/hydejack-site@0,25x.jpg
+    1920w: /assets/img/projects/calend.jpg
+    960w:  /assets/img/projects/calend.jpg
+    480w:  /assets/img/projects/calend.jpg
 links:
   - title: Link
     url: https://hydejack.com/
