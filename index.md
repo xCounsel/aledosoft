@@ -8,6 +8,12 @@ sitemap: false
 
 Скоро здесь будет добавлена необходимая информация.
 
+----
+
+Вся документация, как оформлять и заполнять сайт, здесь - https://hydejack.com/docs/
+
+----
+
 ## First Steps
 Start by reading the [Documentation]{:.heading.flip-title}.
 Specifically, the chapters below should be relevant now:
