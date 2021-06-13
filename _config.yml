@@ -44,6 +44,7 @@ author:
   name:                Александр Юрьевич Доротенко
   email:               mail@domain.tld
   github:              https://github.com/xCounsel/aledosoft
+  linkedin:            <username>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -60,7 +61,7 @@ menu:
   - title:             Написать мне
     url:               /contact/
   - title:             Обо мне и сайте
-    url:               index.md
+    url:               /home/index.md
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
