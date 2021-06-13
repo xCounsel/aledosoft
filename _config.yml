@@ -41,8 +41,9 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Александр Юрьевич> <Доротенко>
-  email:               <mail@domain.tld>
+  name:                Александр Юрьевич Доротенко
+  email:               mail@domain.tld
+  github:              https://github.com/xCounsel/aledosoft
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
