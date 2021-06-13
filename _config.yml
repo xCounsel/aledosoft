@@ -60,7 +60,7 @@ menu:
   - title:             Написать мне
     url:               /contact/
   - title:             Обо мне и сайте
-    url:               https://xcounsel.github.io/aledosoft/
+    url:               index.md
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
