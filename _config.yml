@@ -74,7 +74,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © Доротенко А.Ю., 2021. Все права защищены.
+copyright:             © Доротенко А.Ю., 2021-2023. Все права защищены.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
